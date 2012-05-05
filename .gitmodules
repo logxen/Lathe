@@ -1,0 +1,3 @@
+[submodule "Longworth-chuck"]
+	path = Longworth-chuck
+	url = git://github.com/Intrinsically-Sublime/Longworth-chuck
